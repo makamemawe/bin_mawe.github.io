@@ -1,0 +1,49 @@
+.container{
+    display: block;
+    width: 80%;
+    height: 100%;
+    margin-left: 80px;
+    background-color: #727171;
+    color: #f7f3f3;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body{
+    background-color: #848787;
+    font-size: 18px;
+    font-weight: normal;
+}
+.navbar{
+    display: block;
+    background-color: lightblue;
+    color: rgb(132, 167, 179);
+}
+.header{
+    display: block;
+
+}
+nav{
+    display: flex;
+    background-color: blue;
+    justify-content: space-between;
+    
+    }
+ul{
+    display: flex;
+        
+}
+li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 22px; 
+    width: 80px;
+    border-radius: 4px;   
+
+}
+a{
+    color: blue;
+    text-align: right; 
+    border: 1px solid gainsboro;
+       
+}
